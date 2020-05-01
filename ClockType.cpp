@@ -1,9 +1,11 @@
-//========================================================================
- // Name // Author // G.I.D
-: clocktype.cpp
-: Saranya Balakrishnan : 5
+// ========================================================================
+// Name : clocktype.cpp
+// Author : Saranya Balakrishnan 
+// G.I.D : 5
 // Depart : Computer Engineering
-// SJSU ID : 013786097 //========================================================================
+// SJSU ID : 013786097 
+// ========================================================================
+
 1. Implement the class clock type described in the slides, use the same const modifier for all the methods FOR THE METHODS THAT HAVE THE CONST MODIFIER, the ones that don't DO NOT ADD it
   #include <iostream> using namespace std; class clockType
 {
